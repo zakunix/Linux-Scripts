@@ -1,2 +1,2 @@
 # Linux-Scripts
-Some linux scripts that I use. They are all written on arch based system specifically on CachyOS distro, so may not necessarily work on other linux systems.
+Some linux scripts that I use. Which distro they are in will be indicated, so some scripts may not work on other distros. Overall, they should work just fine on any distro.
