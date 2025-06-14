@@ -1,2 +1,2 @@
 # Arch scripts
-Most of the scripts here were written in Arch and specifically CachyOS
+The scripts in this directory were primarily developed and tested on Arch-based distributions, with a focus on CachyOS.
