@@ -1,2 +1,4 @@
 # Linux-Scripts
-Some linux scripts that I use. Which distro they are in will be indicated, so some scripts may not work on other distros. Overall, they should work just fine on any distro.
+This repository contains a collection of Linux scripts that I’ve written and/or used for various purposes. While they were created with specific distributions in mind, they may also work on others with minimal modification.
+
+Scripts are organized by the distribution they were originally developed or tested on. Please note that functionality may vary depending on your system configuration.
