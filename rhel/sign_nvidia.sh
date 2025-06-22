@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Script reference: https://blog.monosoul.dev/2022/05/17/automatically-sign-nvidia-kernel-module-in-fedora-36/
+# Beautified using ChatGPT
+
 # Path to marker file used to determine whether we are continuing after a reboot
 MARKER_FILE="/tmp/sign_nvidia"
 SCRIPT_PATH="$(realpath "$0")"
