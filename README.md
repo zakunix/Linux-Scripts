@@ -26,7 +26,18 @@ It is possible that some distro-specific scripts just needs some tweaking to be 
 
 ---
 
-## 🚀 Coming Soon: `bget`
+Make scripts executable before running:
+
+```bash
+chmod +x script-name.sh
+./script-name.sh
+```
+
+---
+
+## 🚀 Coming Soon: `lget`
+
+---
 
 We plan to include a helper script named `lget` that will allow you to easily search for, fetch, and run scripts from this collection directly from your terminal.
 
@@ -38,11 +49,4 @@ Example usage (planned):
 ./lget -list           # Lists all available scripts by category
 ./lget -get test     # Downloads test.sh from novelties/
 ./lget -run test
-```
-
-Make scripts executable before running:
-
-```bash
-chmod +x script-name.sh
-./script-name.sh
 ```
