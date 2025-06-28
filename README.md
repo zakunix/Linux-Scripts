@@ -35,7 +35,7 @@ chmod +x script-name.sh
 
 ---
 
-## 🚀 Coming Soon: `lget`
+## 🚀 Coming Soon: `lget` [name subject to change]
 
 ---
 
