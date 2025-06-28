@@ -14,6 +14,10 @@ This repository contains a collection of Linux shell scripts organized by compat
 - `experimental/` - Scripts under testing or development.
 - `utils/` - Shared helper scripts and modules.
 
+⚠️ **Disclaimer:** These scripts are for entertainment purposes. Some may be silly, harmless pranks. Use responsibly.
+- `novelties/` - Meme or novelty scripts written for fun or amusement.
+
+
 It is possible that some distro-specific scripts just needs some tweaking to be able to be used in another distro.
 
 ---
