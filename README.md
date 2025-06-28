@@ -38,11 +38,11 @@ Example usage (planned):
 ./lget -list           # Lists all available scripts by category
 ./lget -get test     # Downloads test.sh from novelties/
 ./lget -run test
-
+```
 
 Make scripts executable before running:
 
 ```bash
 chmod +x script-name.sh
 ./script-name.sh
-
+```
