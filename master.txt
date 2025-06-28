@@ -1,0 +1,6 @@
+#lget master file
+#https://github.com/??/??
+
+#this file is formatted as such:
+# [#], [script name], [script location], [script description], [script's local file name], MD5hash, Author, Category, Last modified, tags, [script size],
+[#],test,

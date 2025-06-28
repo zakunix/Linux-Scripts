@@ -1,4 +1,28 @@
-# Linux-Scripts
-This repository contains a collection of Linux scripts that I’ve written and/or used for various purposes. While they were created with specific distributions in mind, they may also work on others. Modifications may be necessary.
+# Linux Scripts Collection
 
-Scripts are organized by the distribution they were originally developed or tested on. Please note that functionality may vary depending on your system configuration.
+This repository contains a collection of Linux shell scripts organized by compatibility with various Linux distributions. These scripts are useful for system maintenance, setup, automation, and utility purposes.
+
+---
+
+## 📂 Directory Structure
+
+- `common/` - Scripts compatible with most Linux distributions.
+- `debian-based/` - Scripts tailored for Debian, Ubuntu, and related distributions.
+- `redhat-based/` - Scripts for RedHat, CentOS, Fedora, and similar.
+- `arch-based/` - Scripts for Arch Linux, Manjaro, and derivatives.
+- `suse-based/` - Scripts for openSUSE and SUSE Linux Enterprise.
+- `experimental/` - Scripts under testing or development.
+- `utils/` - Shared helper scripts and modules.
+
+It is possible that some distro-specific scripts just needs some tweaking to be able to be used in another distro.
+
+---
+
+## 📦 Usage
+
+Make scripts executable before running:
+
+```bash
+chmod +x script-name.sh
+./script-name.sh
+
