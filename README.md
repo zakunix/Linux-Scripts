@@ -24,6 +24,22 @@ It is possible that some distro-specific scripts just needs some tweaking to be 
 
 ## 📦 Usage
 
+---
+
+## 🚀 Coming Soon: `bget`
+
+We plan to include a helper script named `lget` that will allow you to easily search for, fetch, and run scripts from this collection directly from your terminal.
+
+LGet would be inspired by BGet, in fact it would most likely be BGet but written in bash.
+
+Example usage (planned):
+
+```bash
+./lget -list           # Lists all available scripts by category
+./lget -get test     # Downloads test.sh from novelties/
+./lget -run test
+
+
 Make scripts executable before running:
 
 ```bash
