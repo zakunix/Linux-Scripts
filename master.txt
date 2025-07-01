@@ -1,4 +1,4 @@
-#lget master file
+#bpkg master file
 #https://github.com/??/??
 
 #this file is formatted as such:
