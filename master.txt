@@ -1,6 +1,7 @@
 #bpkg master file
-#https://github.com/??/??
+#https://github.com/zakunix/bpkg
 
 #this file is formatted as such:
 # [#], [script name], [script location], [script description], [script's local file name], MD5hash, Author, Category, Last modified, tags, [script size],
 [#],test,https://raw.githubusercontent.com/zakunix/Linux-Scripts/refs/heads/main/novelties/test.sh,bpkg test file,test.sh,83560020cc9dfd1643741325c2581b57,Zakunix,test,Infinity,testfile,Infinite
+[#],cpufreqsetter,https://raw.githubusercontent.com/zakunix/Linux-Scripts/refs/heads/main/common/cpufreqsetter.sh,A script to set lowest and maximum frequency of supported cpu,cpufreqsetter.sh,0f5de8e517554835d4e29094ce4ab1ce,Zakunix,tools,28/06/2025 07:23 PM,tools;cpu;frequency,694
