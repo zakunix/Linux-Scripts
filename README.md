@@ -35,7 +35,7 @@ chmod +x script-name.sh
 
 ---
 
-## 🚀 Now Available: `bpkg` (Bash Package Manager)
+## 🚀 Now Available: [bpkg](https://github.com/zakunix/bpkg) (Bash Package Manager)
 
 `bpkg` is a lightweight Bash-based script manager designed to let you easily **fetch**, **run**, **list**, and **manage** scripts from this repository—all from the terminal.
 
