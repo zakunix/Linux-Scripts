@@ -35,18 +35,26 @@ chmod +x script-name.sh
 
 ---
 
-## 🚀 Coming Soon: `lget` [name subject to change]
+## 🚀 Now Available: `bpkg` (Bash Package Manager)
+
+`bpkg` is a lightweight Bash-based script manager designed to let you easily **fetch**, **run**, **list**, and **manage** scripts from this repository—all from the terminal.
+
+Inspired by [BGet](https://github.com/jahwi/bget), `bpkg` is fully written in Bash and built for Linux.
 
 ---
 
-We plan to include a helper script named `lget` that will allow you to easily search for, fetch, and run scripts from this collection directly from your terminal.
-
-LGet would be inspired by BGet, in fact it would most likely be BGet but written in bash.
-
-Example usage (planned):
+### 🛠️ Example Usage
 
 ```bash
-./lget -list           # Lists all available scripts by category
-./lget -get test     # Downloads test.sh from novelties/
-./lget -run test
+./bpkg.sh -list -local               # List all scripts available locally
+./bpkg.sh -list -server -usecurl     # List all scripts available from the remote server
+./bpkg.sh -get -usesh test           # Download 'test' script using shell method
+./bpkg.sh -run test                  # Run the 'test' script from local storage
+./bpkg.sh -remove test               # Remove the 'test' script
+./bpkg.sh -upgrade -usesh            # Upgrade bpkg to the latest version
 ```
+
+### ✅ Supported Download Methods
+- `usesh`   → Uses the `bin/download.sh` script
+- `usecurl` → Uses `curl` directly
+- `usejs`   → Uses `bin/download.js` (requires Node.js)
