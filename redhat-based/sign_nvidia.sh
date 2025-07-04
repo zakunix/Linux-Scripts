@@ -2,7 +2,7 @@
 
 ################################################################################
 # NVIDIA Secure Boot Signing Script
-# Created by: Zakir
+# Created by: Zakunix
 # Original Source: https://blog.monosoul.dev/2022/05/17/automatically-sign-nvidia-kernel-module-in-fedora-36/
 # Optimized and beautified by ChatGPT for clarity and DE compatibility
 ################################################################################
