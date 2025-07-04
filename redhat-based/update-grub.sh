@@ -2,7 +2,7 @@
 
 ################################################################################
 # GRUB2 Configuration Updater Script
-# Created by: Zakir
+# Created by: Zakunix
 # Optimized and beautified by ChatGPT for improved clarity and UX
 ################################################################################
 
